@@ -1,2 +1,2 @@
-# Bread-CRUD
-Exampl app
+
+An example CRUD app for bread.
